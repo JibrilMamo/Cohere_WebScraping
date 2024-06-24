@@ -23,7 +23,7 @@ Before you begin, ensure you have the following installed:
 
 ## Usage
 
-1. Replace `'YOUR_API_KEY'` in the script (`summarize_webpage.py`) with your actual Cohere API key.
+1. Replace `'YOUR_API_KEY'` in the script (`Web_scraper.py`) with your actual Cohere API key.
 
 2. Run the script with the URL of the webpage you want to summarize:
    ```bash
@@ -39,7 +39,7 @@ Before you begin, ensure you have the following installed:
 Here's an example of how to summarize a webpage using this script:
 
 ```bash
-python summarize_webpage.py https://example.com/sample-article
+python Web_scraper.py https://example.com/sample-article
 ```
 
 ## License
